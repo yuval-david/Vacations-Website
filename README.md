@@ -1,8 +1,8 @@
 # Vacations-website
 
 Full stack project
-Client side - React, Html, CSS, Javascript, Material UI
-Server side - Node. js, MySQL
+<> Client side - React, Html, CSS, Javascript, Material UI.
+<> Server side - Node. js, MySQL.
 
 To upload it in your computer:
 1. Turn on MySQL server (XAMPP).
