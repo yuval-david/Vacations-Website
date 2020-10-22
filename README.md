@@ -5,7 +5,7 @@ Full stack project (React + node.js + mySQL)
 Website of vacations. Each user can log in, see all the vacations, and choose his favorites vacations.
 There is an administrator, who can manage the information of each vacation and add or delete vacations.
 
-## Usage:
+## Usage
 1. Turn on MySQL server (XAMPP).
 2. Create the DB in your computer:
     - Go to the server folder.
